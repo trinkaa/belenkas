@@ -1,5 +1,3 @@
-package projectPackage;
-
 public class Calc {
 	int newVal;
 

@@ -1,5 +1,3 @@
-package projectPackage;
-
 /**
  * @author Pranas
  *
